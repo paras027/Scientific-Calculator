@@ -1,0 +1,3 @@
+C:\Users\sivah\source\repos\ScientificCalculator\ScientificCalculator\Debug\ScientificCalculator.vcxproj.AssemblyReference.cache
+C:\Users\sivah\source\repos\ScientificCalculator\ScientificCalculator\Debug\ScientificCalculator.MyForm.resources
+C:\Users\sivah\source\repos\ScientificCalculator\ScientificCalculator\Debug\ScientificCalculator.vcxproj.GenerateResource.cache
